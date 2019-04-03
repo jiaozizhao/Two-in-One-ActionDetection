@@ -1,5 +1,7 @@
 # Two-in-One-ActionDetection
 
-## This is my first test.
+The code is for our CVPR2019 paper "Dance with Flow: Two-in-One Stream Action Detection". It is based on https://github.com/gurkirt/realtime-action-detection and https://github.com/xinntao/SFTGAN.
 
-## Another test here ...
+One can follow https://github.com/gurkirt/realtime-action-detection to install it and prepare dataset.
+
+
